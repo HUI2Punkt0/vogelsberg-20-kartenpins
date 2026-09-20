@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Schimmel mit verkleideter Person">
+<path d="M12 58c0-18 15-28 36-28h19l12 10-2 28H24C17 68 12 64 12 58Z" fill="#f7f3e9" stroke="#493460" stroke-width="5" stroke-linejoin="round"/>
+<path d="M61 32 64 12 72 20 79 17 88 25 82 49 73 52 63 44Z" fill="#fffaf0" stroke="#493460" stroke-width="5" stroke-linejoin="round"/>
+<path d="M69 13 69 6M79 18 84 10" stroke="#493460" stroke-width="4" stroke-linecap="round"/>
+<circle cx="77" cy="31" r="3.5" fill="#493460"/><path d="m80 43 5-2" stroke="#493460" stroke-width="3" stroke-linecap="round"/>
+<path d="M15 49c-7 1-10 8-8 14" fill="none" stroke="#493460" stroke-width="4" stroke-linecap="round"/>
+<path d="M30 68v13m31-13v13" stroke="#493460" stroke-width="8" stroke-linecap="round"/>
+<path d="M18 81h19m17 0h18" stroke="#493460" stroke-width="5" stroke-linecap="round"/>
+<path d="M22 48c9-8 25-8 37-7" fill="none" stroke="#d5a840" stroke-width="4" stroke-linecap="round" stroke-dasharray="4 7"/>
+<path d="M37 30c-1-10 2-16 8-17 7 1 9 8 8 17" fill="#347a91" stroke="#493460" stroke-width="4"/>
+<circle cx="45" cy="10" r="5" fill="#e5a980" stroke="#493460" stroke-width="3"/>
+</svg>
