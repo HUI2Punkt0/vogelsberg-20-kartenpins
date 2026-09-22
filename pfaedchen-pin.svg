@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 320">
+<defs><filter id="s"><feDropShadow dx="0" dy="5" stdDeviation="5" flood-opacity=".28"/></filter></defs>
+<path filter="url(#s)" d="M128 4C61 4 15 51 15 113c0 81 113 199 113 199s113-118 113-199C241 51 195 4 128 4Z" fill="#a84622" stroke="#4b1c11" stroke-width="7"/>
+<circle cx="128" cy="112" r="91" fill="#f7efd9" stroke="#2b2019" stroke-width="7"/>
+<!-- two deliberately different houses -->
+<g stroke="#2b2019" stroke-width="4" stroke-linejoin="round">
+<path d="M35 103 66 70l31 33v52H35Z" fill="#f4ead5"/><path d="M29 104 66 63l37 41" fill="none"/><path d="M39 96h54M47 84l38 42M85 84l-38 42" opacity=".75"/><path d="M44 75h44" opacity=".75"/><path d="M45 118h16v37H45Z" fill="#6e4429"/><path d="M72 111h15v15H72Z" fill="#b7d6d7"/>
+<path d="M159 101 191 76l32 25v54h-64Z" fill="#e7d0a6"/><path d="M154 102 191 68l38 34" fill="#b54d2e"/><path d="M181 119h18v36h-18Z" fill="#245b4a"/><path d="M205 108h13v14h-13Z" fill="#d7e4e0"/>
+</g>
+<!-- chalk/lime/sawdust Pfädchen: surface marking from doorstep to doorstep, not a built path -->
+<path d="M61 153 C78 164 86 145 103 153 C120 161 127 178 145 169 C161 161 168 151 190 153" fill="none" stroke="#fffdf1" stroke-width="9" stroke-linecap="round" stroke-dasharray="2 7"/>
+<path d="M61 153 C78 164 86 145 103 153 C120 161 127 178 145 169 C161 161 168 151 190 153" fill="none" stroke="#eee4c5" stroke-width="3" stroke-linecap="round" stroke-dasharray="1 5"/>
+<path d="M116 116c-15-15-37 7 12 39 49-32 27-54 12-39-6 6-12 12-12 12s-6-6-12-12Z" fill="#b94732" stroke="#6c251c" stroke-width="3"/>
+</svg>
